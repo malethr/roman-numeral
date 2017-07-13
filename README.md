@@ -21,7 +21,6 @@ _{Received a user input and convert it to roman numeral format}_
 | Only one small-value symbol may be subtracted from any large-value symbol. | 9 | IX |
 | “D”, “L”, and “V” can never be repeated or subtracted.  | 400, 900 | CD, CM |
 | The program recognize zero as invalid input.  | 0 | Invalid Input |
-| Content Cell  | Content Cell  | Content Cell  |
 
 
 ## Setup/Installation Requirements
